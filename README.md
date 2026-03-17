@@ -1,5 +1,10 @@
 Amazon UI Clone
 
+##Project Preview
+###Homepage Section
+!|Top-part|(Project Screenshot TopPart .png)
+!|Bottom-part|(Project Screenshot BottomPart .png)
+
 This project is a front-end clone of the Amazon homepage created for learning and practicing web development. The goal of this project was to understand how modern e-commerce websites structure their layouts and design user interfaces.
 
 Technologies Used
